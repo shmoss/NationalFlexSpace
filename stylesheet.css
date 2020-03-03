@@ -1,0 +1,1029 @@
+
+svg {
+	
+    left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+
+
+.round {
+  position: relative;
+  padding-left:35px;
+
+
+}
+
+
+
+.round label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.round label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+
+}
+
+.round label:before {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+.round input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.round input[type="checkbox"]:checked + label {
+  background-color: #e30613;
+  border-color: black;
+  opacity:.7;
+}
+
+.round input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+
+}
+
+.Regus {
+  position: relative;
+  padding-left:35px;
+  
+
+}
+
+
+.Regus label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.Regus label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+
+}
+
+.Regus label:before {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+.Regus input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.Regus input[type="checkbox"]:checked + label {
+  background-color: #17a2b8;
+  border-color: black;
+  opacity:.7;
+}
+
+.Regus input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+
+}
+
+
+.Spaces {
+  position: relative;
+  padding-left:35px;
+  
+
+}
+
+
+.Spaces label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.Spaces label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+
+}
+
+.Spaces label:before {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+.Spaces input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.Spaces input[type="checkbox"]:checked + label {
+  background-color: #28a745;
+  border-color: black;
+  opacity:.7;
+}
+
+.Spaces input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+
+}
+
+.Knotel {
+  position: relative;
+  padding-left:35px;
+  
+
+}
+
+
+.Knotel label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.Knotel label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+
+}
+
+.Knotel label:before {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+.Knotel input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.Knotel input[type="checkbox"]:checked + label {
+  background-color: #6610f2;
+  border-color: black;
+  opacity:.7;
+}
+
+.Knotel input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+
+}
+
+
+.RocketSpace {
+  position: relative;
+  padding-left:35px;
+  
+
+}
+
+
+.RocketSpace label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.RocketSpace label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+
+}
+
+.RocketSpace label:before {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+.RocketSpace input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.RocketSpace input[type="checkbox"]:checked + label {
+  background-color: #ffc107;
+  border-color: black;
+  opacity:.7;
+}
+
+.RocketSpace input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+
+}
+
+
+.HQWorkspaces {
+  position: relative;
+  padding-left:35px;
+  
+
+}
+
+
+.HQWorkspaces label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.HQWorkspaces label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+
+}
+
+.HQWorkspaces label:before {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+.HQWorkspaces input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.HQWorkspaces input[type="checkbox"]:checked + label {
+  background-color: #ed700a;
+  border-color: black;
+  opacity:.7;
+}
+
+.HQWorkspaces input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+
+}
+
+
+.OtherTenant {
+  position: relative;
+  padding-left:35px;
+  
+
+}
+
+
+.OtherTenant label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.OtherTenant label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+
+}
+
+.OtherTenant label:before {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+.OtherTenant input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.OtherTenant input[type="checkbox"]:checked + label {
+  background-color: #d3d3d3;
+  border-color: black;
+  opacity:.7;
+}
+
+.OtherTenant input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+
+}
+
+.tenantSelectAll {
+  position: relative;
+  padding-left:35px;
+  
+
+}
+
+
+.tenantSelectAll label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.tenantSelectAll label:after {
+  border: 2px solid black ;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+
+}
+
+.tenantSelectAll label:before {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+.tenantSelectAll input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.tenantSelectAll input[type="checkbox"]:checked + label {
+  background-color: #ffffff;
+  border-color: black;
+  opacity:.7;
+}
+
+.tenantSelectAll input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+
+}
+.container{
+  text-align:center;
+
+}
+
+  .container:before {
+   
+  
+   
+     content: "";
+
+
+  }
+  .container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+  
+  .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 17px;
+    width: 17px;
+    background-color: #eee;
+  }
+
+
+  
+
+  
+  .container input:checked~.checkmark {
+    background-color: #e30613;
+  }
+  
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+    
+  }
+  
+  .container input:checked~.checkmark:after {
+    display: block;
+  }
+  
+  .container .checkmark:after {
+    left: 6px;
+    top: 3px;
+    bottom:3px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+
+  }
+
+.subtitle  {
+	font: 14px Baskerville; 
+}
+
+#play-button {
+      position: inline-block;
+      top: 140px;
+      left: 50px;
+      background: #e30613;
+      padding-right: 26px;
+      border-radius: 3px;
+      border: none;
+      color: white;
+      margin: 0;
+      padding: 0 12px;
+      width: 60px;
+      cursor: pointer;
+      height: 30px;
+
+    }
+
+
+#play-button-leaflet {
+      position: inline-block;
+      top: 140px;
+      left: 50px;
+      background: #e30613;
+      padding-right: 26px;
+      border-radius: 3px;
+      border: none;
+      color: white;
+      margin: 0;
+      padding: 0 12px;
+      width: 60px;
+      cursor: pointer;
+      height: 30px;
+
+    }
+
+ #map {
+ 	top: 1500px
+ 	l
+ }
+
+    #play-button:hover {
+      background-color: #696969;
+    }
+
+     #play-button-leaflet:hover {
+      background-color: #696969;
+    }
+
+#timeslide {
+    -webkit-appearance: none;
+    width: 70%;
+    height: 10px;
+    border-radius: 5px;   
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+
+
+#timeslide::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    border-radius: 25px;   
+    width: 25px; /* Set a specific slider handle width */
+    height: 25px; /* Slider handle height */
+    background: #e30613; /* Green background */
+    cursor: pointer; /* Cursor on hover */
+}
+
+#timeslide-leaflet {
+    -webkit-appearance: none;
+    width: 50%;
+    height: 10px;
+    border-radius: 5px;   
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+#sizeSlide-leaflet {
+    -webkit-appearance: none;
+    width: 50%;
+    height: 10px;
+    border-radius: 5px;   
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+
+
+#timeslide-leaflet::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    border-radius: 25px;   
+    width: 25px; /* Set a specific slider handle width */
+    height: 25px; /* Slider handle height */
+    background: #e30613; /* Green background */
+    cursor: pointer; /* Cursor on hover */
+}
+
+#sizeSlide-leaflet::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    border-radius: 25px;   
+    width: 25px; /* Set a specific slider handle width */
+    height: 25px; /* Slider handle height */
+    background: #e30613; /* Green background */
+    cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+   -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    border-radius: 25px;   
+    width: 25px; /* Set a specific slider handle width */
+    height: 25px; /* Slider handle height */
+    background: #e30613; /* Green background */
+    cursor: pointer; /* Cursor on hover */
+}
+
+
+
+#stop {
+      position: inline-block;
+      top: 240px;
+      left: 900px;
+      background: #e30613;
+      padding-right: 26px;
+      border-radius: 3px;
+      border: none;
+      color: white;
+      margin: 0;
+      padding: 0 12px;
+      width: 60px;
+      cursor: pointer;
+      height: 30px;
+    }
+
+    #stop:hover {
+      background-color: #696969;
+    }
+
+#stop-leaflet {
+      position: inline-block;
+      top: 140px;
+      left: 50px;
+      background: #e30613;
+      padding-right: 26px;
+      border-radius: 3px;
+      border: none;
+      color: white;
+      margin: 0;
+      padding: 0 12px;
+      width: 60px;
+      cursor: pointer;
+      height: 30px;
+    }
+
+    #stop-leaflet:hover {
+      background-color: #696969;
+    }
+
+
+.current {
+	left: 0; 
+  	right: 0; 
+  	margin-left: auto; 
+  	margin-right: auto;
+}
+
+
+  @-webkit-keyframes pulse 
+    {       
+      0% {-webkit-transform: scale(1.0); opacity: 1;}
+      100% {-webkit-transform: scale(1.0); opacity: 0;}
+    }
+    
+    .pulse
+    {
+      /* Giving Animation Function */
+      -webkit-animation: pulse 2s linear infinite;
+    }
+    
+    .blur {
+      -webkit-filter: blur(10px);
+    }
+    
+    .shadow {
+    -webkit-filter: drop-shadow( 0px 0px 5px white );
+            filter: drop-shadow( 0px 0px 5px #000 ); /* Same syntax as box-shadow */
+}
+
+.tenants {
+
+ 
+
+}
+
+
+
+.state-borders {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 0.2px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  pointer-events: none;
+}
+
+.bubble {
+
+	fill:blue;
+	 stroke:white;
+ 	
+}
+
+.countyHover {
+    
+    opacity:.9;
+    stroke-width: 3px;
+    stroke:black;  
+}
+
+
+
+div.countyTooltip {  
+    word-wrap: normal;
+    position: absolute;
+    text-align: center;
+    min-height: 20px;
+    min-width: 30px;                      
+    padding: 2px;               
+    font: 14px Baskerville;      
+    color: #fff;
+    background-color: rgba(51,51,51,.85);
+    border: solid thin black;
+    padding: 5px 10px 10px 5px;
+    top: -75px;       
+    pointer-events: none;           
+}
+
+div.county2014Tooltip {  
+    word-wrap: normal;
+    position: absolute;
+    text-align: center;
+    min-height: 20px;
+    min-width: 30px;                      
+    padding: 2px;               
+    font: 14px Baskerville;      
+    color: #fff;
+    background-color: rgba(51,51,51,.85);
+    border: solid thin black;
+    padding: 5px 10px 10px 5px;
+    top: -75px;       
+    pointer-events: none;           
+}
+
+.d3-slider {
+    position: relative;
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 1.1em;
+    border: 1px solid #aaaaaa;
+    z-index: 2;
+}
+
+.d3-slider-horizontal {
+    height: .8em;
+}  
+
+.d3-slider-range {
+  background:#2980b9;
+  left:0px;
+  right:0px;
+  height: 0.8em;
+  position: absolute;
+}
+
+.d3-slider-range-vertical {
+  background:#2980b9;
+  left:0px;
+  right:0px;
+  position: absolute;
+  top:0;
+}
+
+.d3-slider-vertical {
+    width: .8em;
+    height: 100px;
+}      
+
+.d3-slider-handle {
+    position: absolute;
+    width: 1.2em;
+    height: 1.2em;
+    border: 1px solid #d3d3d3;
+    border-radius: 4px;
+    background: #eee;
+    background: linear-gradient(to bottom, #eee 0%, #ddd 100%);
+    z-index: 3;
+}
+
+.d3-slider-handle:hover {
+    border: 1px solid #999999;
+}
+
+.d3-slider-horizontal .d3-slider-handle {
+    top: -.3em;
+    margin-left: -.6em;
+}
+
+.d3-slider-axis {
+    position: relative;
+    z-index: 1;    
+}
+
+.d3-slider-axis-bottom {
+    top: .8em;
+}
+
+.d3-slider-axis-right {
+    left: .8em;
+}
+
+.d3-slider-axis path {
+    stroke-width: 0;
+    fill: none;
+}
+
+.d3-slider-axis line {
+    fill: none;
+    stroke: #aaa;
+    shape-rendering: crispEdges;
+}
+
+.d3-slider-axis text {
+    font-size: 11px;
+}
+
+.d3-slider-vertical .d3-slider-handle {
+    left: -.25em;
+    margin-left: 0;
+    margin-bottom: -.6em;      
+}
+
+#slider3 {
+  margin: 20px 0 10px 20px;
+  width: 900px;
+}
+
+div.leafletDiv {  
+    word-wrap: normal;
+    position: absolute;
+    text-align: center;
+    min-height: 20px;
+    min-width: 30px;                      
+    padding: 2px;               
+    font: 14px Baskerville;      
+    color: #fff;
+    background-color: rgba(51,51,51,.85);
+    border: solid thin black;
+    padding: 5px 10px 10px 5px;
+    top: -75px;       
+    pointer-events: none;           
+}
+.leaflet-container > svg .svglayer path {
+    pointer-events: auto ;
+}
+
+.containerID {
+	width: 500px;
+	height: 200px;
+}
+
+.allBrokers {
+  position: relative;
+  padding-left:35px;
+  
+
+}
+
+
+.allBrokers label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.allBrokers label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+
+}
+
+.allBrokers label:before {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "     ";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+.allBrokers input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.allBrokers input[type="checkbox"]:checked + label {
+  background-color: black;
+  border-color: black;
+  opacity:.7;
+}
+
+.allBrokers input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+
+}
